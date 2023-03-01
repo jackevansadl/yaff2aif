@@ -1,0 +1,31 @@
+data_yaff2aif
+_audit_aif_version 6acf6ef
+_exptl_operator a1174978
+_simltn_date 2023-03-01T12:59:56.192939
+_simltn_code yaff1.6.0.post21
+_exptl_method GCMC
+_exptl_isotherm_type absolute
+_exptl_adsorptive CO2
+_exptl_temperature 298.0
+_simltn_forcefield_adsorptive CO2.chk_pars.txt
+_simltn_forcefield_adsorbent MIL53.chk_pars.txt
+_adsnt_material_id MIL-53(Al)
+_adsnt_sample_mass 1.66483E+03
+_units_temperature K
+_units_energy kJ/mol
+_units_loading molecules
+_units_pressure bar
+_units_mass amu
+
+loop_
+_adsorp_pressure
+_adsorp_amount
+_adsorp_fugacity
+_adsorp_chemicalpotential
+_adsorp_nsteps
+1.00000E-01 2.42800E-01 9.99453E-02 -4.60131E+01 1.000E+04
+5.00000E-01 1.42300E+00 4.98633E-01 -4.20308E+01 1.000E+04
+1.00000E+00 3.21090E+00 9.94536E-01 -4.03201E+01 1.000E+04
+3.00000E+00 6.99370E+00 2.95096E+00 -3.76254E+01 1.000E+04
+5.00000E+00 8.52960E+00 4.86414E+00 -3.63871E+01 1.000E+04
+1.00000E+01 9.24880E+00 9.46015E+00 -3.47389E+01 1.000E+04
